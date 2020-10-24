@@ -1,7 +1,7 @@
 # Starter Web Project
 
 This repository is for showing how Git and GitHub work
-Adding a line for rebasing example, then more changes from myfeature branch too.
+Updating for emergency fix after our stash
 
 ## Introduction
 This example is to show diferent parts of the Git repository and various commands using a web project.
